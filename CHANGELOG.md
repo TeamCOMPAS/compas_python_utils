@@ -1,7 +1,24 @@
 # CHANGELOG
 
 
+## v0.0.2 (2024-12-12)
+
+### Unknown
+
+* adjustments to docs ([`a3c0edd`](https://github.com/TeamCOMPAS/compas_python_utils/commit/a3c0edd038fac637ee9483bad7e5049f63571e06))
+
+* t push origin mainMerge branch 'main' of github.com:TeamCOMPAS/compas_python_utils into main ([`e70d4ab`](https://github.com/TeamCOMPAS/compas_python_utils/commit/e70d4ab19f0d1dfecae83a10dcd2cedafce9257b))
+
+
 ## v0.0.1 (2024-12-12)
+
+### Bug Fixes
+
+* fix: refactor src ([`d4aa703`](https://github.com/TeamCOMPAS/compas_python_utils/commit/d4aa7031eaac13c81baca0fd9bba6d917086fa5c))
+
+### Chores
+
+* chore(release): 0.0.1 ([`7f36810`](https://github.com/TeamCOMPAS/compas_python_utils/commit/7f36810e00f42577e3ea4ac7ae83b97a8262bdff))
 
 ### Unknown
 
