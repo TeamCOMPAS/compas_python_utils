@@ -77,10 +77,10 @@ dev = [
 gpu = ["cupy"]
 
 [tool.setuptools_scm]
-version_file = "compas_python_utils/_version.py"  # Adjust path as necessary
+version_file = "src/compas_python_utils/_version.py"  # Adjust path as necessary
 
 [tool.semantic_release]
-version_variable = "compas_python_utils/_version.py:__version__"
+version_variable = "src/compas_python_utils/_version.py:__version__"
 version_source = "commit"
 commit_version_number = true
 commit_subject = "chore(release): {version}"
@@ -103,9 +103,6 @@ run_submit = "compas_python_utils.preprocessing.runSubmit:main"
 sample_stroopwafel = "compas_python_utils.preprocessing.stroopwafelInterface:main"
 sample_moe_di_stefano = "compas_python_utils.preprocessing.sampleMoeDiStefano:main"
 fast_cosmic_integrator = "compas_python_utils.cosmic_integration.FastCosmicIntegration:main"
-
-[tool.setuptools]
-packages = ["compas_python_utils"]
 
 [tool.setuptools.package-data]
 "compas_python_utils.preprocessing" = ["*.txt", "*.yaml"]
