@@ -7,3 +7,5 @@
 The python utilities for [COMPAS code](github.com/TeamCOMPAS/COMPAS).
 
 
+Note: this is a direct copy of the python utils from the main COMPAS repo. 
+This was done to set up a `pip install compas_python_utils` 
